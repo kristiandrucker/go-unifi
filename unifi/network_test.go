@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paultyng/go-unifi/unifi"
+	"github.com/kristiandrucker/go-unifi/unifi"
 )
 
 func TestNetworkUnmarshalJSON(t *testing.T) {
